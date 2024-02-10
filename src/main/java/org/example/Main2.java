@@ -14,7 +14,7 @@ public class Main2 {
             }
         }
 
-        System.out.println(Arrays.deepToString(matrix));
+        //System.out.println(Arrays.deepToString(matrix));
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
